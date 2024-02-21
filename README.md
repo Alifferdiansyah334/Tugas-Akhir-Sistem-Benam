@@ -7,27 +7,27 @@ Pembuatan Alat Pemberian Makanan Kucing Otomatis Dengan Memanfaatkan Mikrokontro
 
 <h3>Pin Setup</h3>
 
-Pin Load Cell + Hx711
-DT 23
-SCK 22
-VCC 5V
-GND GND
+Pin Load Cell + Hx711 <br>
+DT 23 <br>
+SCK 22 <br>
+VCC 5V <br>
+GND GND <br>
 
-Ultrasonik Pin
-Trig 17
-Echo 16
-VCC 5V
-GND GND
+Ultrasonik Pin <br>
+Trig 17 <br>
+Echo 16 <br>
+VCC 5V <br>
+GND GND <br>
 
-Servo Pin
-Red 5V 
-Brown GND
-Orange 32
+Servo Pin <br>
+Red 5V <br>
+Brown GND <br>
+Orange 32 <br>
 
 
-<h3>Blynk Virtual Pin Setup</h3>
+<h3>Blynk Virtual Pin Setup</h3> <br>
 
-Blynk Virtual Pin
-Load Cell Monitor, V1 Double
-Ultrasonik Monitor, V2 Integer
-Blynk Button, V3, Integer
+Blynk Virtual Pin <br>
+Load Cell Monitor, V1 Double <br>
+Ultrasonik Monitor, V2 Integer <br>
+Blynk Button, V3, Integer <br>
